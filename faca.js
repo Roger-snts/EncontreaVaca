@@ -1,7 +1,7 @@
 let x;
 let y;
 let imagem = document.getElementById("bladezinho");
-let som = new Audio("boa.mp3");
+let som = new Audio("parabens.mp3");
 
 function randomizarnumeros() {
     x = Math.floor(Math.random() * 1200) + 1;
